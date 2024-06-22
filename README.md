@@ -32,5 +32,5 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 ## Contact
 For any inquiries or feedback, please reach out to:
 
-Name: Yuvraj Badmal
-Email: badmal.uv@gmail.com
+- Name: Yuvraj Badmal
+- Email: badmal.uv@gmail.com
